@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-lots-and-serials-nuxt",
+  "capabilityKey": "planned:ecommerce:lots-and-serials",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-lots-and-serials-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/lots-and-serials.md",
+  "presentationPlan": "projects/ecommerce/nuxt/lots-and-serials.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
